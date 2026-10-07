@@ -1,0 +1,6 @@
+{
+  "name": "The Daily Grind - Artisanal Cafe & Specialty Coffee Roasters",
+  "description": "Specialty coffee roastery and artisan cafe featuring curated single-origin roasts, seasonal brews, handcrafted pastries, and an inspiring coffee journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
